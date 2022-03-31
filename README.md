@@ -57,6 +57,8 @@ Algunas de las ventajas mencionadas por Eric Holscher son[1]:
 3. Quieres mejorar tu código
 4. Quieres ser un mejor escritor
 
+Recuerda que GitHub es una red social de colaboración de código y debes lograr que tus repositorios sean atractivos para los demás usuarios. 
+
 ## Referencia
 
 [1] A beginner’s guide to writing documentation — Write the Docs. (s/f). Writethedocs.Org. Recuperado el 31 de marzo de 2022, de https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
