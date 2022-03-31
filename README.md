@@ -11,6 +11,7 @@ Es importante que documentes desde el principio de tu crecimiento todos los repo
 - [Introducción](#introducción)
 - [Contenido básico](#contenido-básico)
 - [Ventajas](#Ventajas)
+- [Referencia](#referencia)
 
 
 ## Introducción
@@ -46,8 +47,16 @@ Los apoyos visuales más comúnes son:
 
 Escribir buena documentacíon es super útil para poder colaborar en el mundo de programación y darle valor agregado a todos tus repositorios.
 
-Sin duda
+Algunas de las ventajas mencionadas por Eric Holscher son[1]:
 
+1. Quieres que las personas usen tu código.
+2. Quieres que las personas te puedan ayudar.
+3. Quieres mejorar tu código
+4. Quieres ser un mejor escritor
+
+## Referencia
+
+[1] A beginner’s guide to writing documentation — Write the Docs. (s/f). Writethedocs.Org. Recuperado el 31 de marzo de 2022, de https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
 
 
 
