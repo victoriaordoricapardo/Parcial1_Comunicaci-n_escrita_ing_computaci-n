@@ -8,10 +8,12 @@ Es importante que documentes desde el principio de tu crecimiento todos los repo
 
 ## Tabla de contenido
 
-- [¿Qué es un documento README?] (#¿-qué-es-un-documento-README-?)
+- [Introducción](#introducción)
 - [Contenido básico](#contenido-básico)
+- [Ventajas](#Ventajas)
 
-## ¿ Qué es un documento README ?
+
+## Introducción
 
 README es el primer documento que se lee al abrir un repositorio. Contiene la información pertinente que permite entender el objetivo y la implementación del repositorio.
 
@@ -38,11 +40,13 @@ Los apoyos visuales más comúnes son:
 - Código relevante
 - Ejemplos de uso
 
-## Primeros pasos para implementar README
-### Títulos y subtítulos
+![Upload diagrama](https://github.com/victoriaordoricapardo/Parcial1_ComunicacionEscritaIngComputacion/blob/main/DiagramaREADME.png)
 
-Un título debe explicar claramente el contenido del proyecto. 
-En formato markdown, el título debe escribirse con símbolo #
+## Ventajas
+
+Escribir buena documentacíon es super útil para poder colaborar en el mundo de programación y darle valor agregado a todos tus repositorios.
+
+Sin duda
 
 
 
