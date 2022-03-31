@@ -16,9 +16,12 @@ Es importante que documentes desde el principio de tu crecimiento todos los repo
 
 ## Introducción
 
-README es el primer documento que se lee al abrir un repositorio. Contiene la información pertinente que permite entender el objetivo y la implementación del repositorio.
+README es el primer documento que se lee al abrir un repositorio. Contiene la información pertinente que logra resumir el objetivo general y explica la implementación del repositorio.
 
-La documentación debe estar redactada en formato _markdown_. Es un lenguaje de texto creado para facilitar la documentación. 
+El objetivo de la elaboración de la documentación es permitir que otros programadores o usuarios puedan emplear tu código y darle mayor valor a tu trabajo.
+Además, también es de gran utilidad para recordar al propio programador la razón y objetivo del proyecto, con el paso del tiempo es común olvidar los diferentes proyectos que se realizan. 
+
+La documentación debe estar redactada en formato _markdown_. Es un lenguaje de texto creado para facilitar la documentación y que se emplea para la documentación en la programación. 
 
 El formato .md se puede editar en diversos editores en línea o directamente en GitHub.
 
@@ -33,7 +36,7 @@ Todo documento README debe de contener:
 - Implementación
 
 Además se recomienda agregar apoyos visuales que permitan facilitar la lectura y la comprensión general del proyecto. 
-Los apoyos visuales más comúnes son: 
+Los apoyos visuales más comunes son: 
 
 - Tabla de contenidos
 - Diagramas
@@ -45,7 +48,7 @@ Los apoyos visuales más comúnes son:
 
 ## Ventajas
 
-Escribir buena documentacíon es super útil para poder colaborar en el mundo de programación y darle valor agregado a todos tus repositorios.
+Escribir buena documentación es super útil para poder colaborar en el mundo de programación y darle valor agregado a todos tus repositorios.
 
 Algunas de las ventajas mencionadas por Eric Holscher son[1]:
 
