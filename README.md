@@ -25,6 +25,8 @@ La documentación debe estar redactada en formato _markdown_. Es un lenguaje de 
 
 El formato .md se puede editar en diversos editores en línea o directamente en GitHub.
 
+![Upload imagen](https://github.com/victoriaordoricapardo/Parcial1_ComunicacionEscritaIngComputacion/blob/main/Captura%20de%20Pantalla%202022-03-30%20a%20la(s)%2018.49.50.png)
+
 ## Contenido básico
 
 Todo documento README debe de contener:
